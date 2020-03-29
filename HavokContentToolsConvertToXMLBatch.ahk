@@ -81,6 +81,6 @@ Click, right, 1144, 551
 }
 return
 
-
-
+; ESC: terminate the script immediately.
+Esc::ExitApp
 /* End*/
