@@ -9,7 +9,7 @@ HavokContentToolsBatcher---- An autohotkey script that allows you to massively c
 
 # Tutorial
 
-1. Run the script via autohotkey
+1. Run the script [HavokContentToolsConvertToXMLBatch.ahk] via autohotkey
 
 2. Run the havoc content tools
 
